@@ -1,2 +1,3 @@
-# esp32_tools
-Collection of C libraries for ESP32 programming with ESP-IDF toolchain
+# libesp32
+
+A collection of C libraries for ESP32 programming with ESP-IDF framework.
