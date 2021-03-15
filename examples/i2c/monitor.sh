@@ -1,0 +1,1 @@
+python3 -m serial.tools.miniterm --eol lf --filter direct /dev/cu.SLAB_USBtoUART 115200
