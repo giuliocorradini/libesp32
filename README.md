@@ -2,6 +2,10 @@
 
 A collection of C libraries for ESP32 programming with ESP-IDF framework.
 
+<p align="center">
+    <img height="300" width="300" src="docs/libesp32_logo_hires.png">
+</p>
+
 ## SSD1306 Display Bring-up
 
 ### Libraries
