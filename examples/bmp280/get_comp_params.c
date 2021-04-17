@@ -6,7 +6,7 @@
 #include "freertos/semphr.h"
 
 #include "i2c.h"
-#include "bmp280.h"
+#include "my_bmp280.h"
 
 void app_main() {
     i2c_configure();

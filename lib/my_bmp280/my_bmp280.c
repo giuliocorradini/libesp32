@@ -1,4 +1,4 @@
-#include "bmp280.h"
+#include "my_bmp280.h"
 #include "driver/i2c.h"
 
 esp_err_t bmp280_read_register(uint8_t reg, uint8_t *dst, int n) {
