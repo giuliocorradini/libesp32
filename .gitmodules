@@ -4,3 +4,6 @@
 [submodule "lib/bmp280"]
 	path = lib/bmp280
 	url = https://github.com/BoschSensortec/BMP280_driver
+[submodule "lib/edstream"]
+	path = lib/edstream
+	url = https://github.com/ITIS-Enrico-Fermi/edstream
